@@ -11,5 +11,9 @@
     "cf"
   ],
   "author": "chuckfairy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+      "browserify": "*",
+      "selenium-webdriver": "*"
+  }
 }

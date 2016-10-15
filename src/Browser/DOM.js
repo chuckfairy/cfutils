@@ -102,7 +102,7 @@ var DOM = {
 
             evt = 'on'+evt;
 
-            if(typeof obj[evt] === 'function'){
+            if(typeof obj[evt] === 'function') {
 
                 // Object already has a function on traditional
                 fnc = (function(f1,f2){
